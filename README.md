@@ -5,7 +5,7 @@ To run the GUI you will require mysqljava jar file which need to be store at sam
 Download the mysqljava jar file from link below👇:
 https://dev.mysql.com/downloads/connector/j/
 
-The commands to run GUI:
+Then run below commands on your console:
 1. javac -cp mysqljavajar *.java
 2. java -cp mysqljavajar;. Project
    
